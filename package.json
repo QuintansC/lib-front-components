@@ -59,7 +59,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "bootstrap": "^5.3.2",
     "react-bootstrap": "^2.9.0"
   }
 }
