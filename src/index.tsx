@@ -1,11 +1,4 @@
 import * as React from 'react';
-
-// Delete me
-export const Thing = () => {
-  return <div>the snozzberries taste like snozzberries</div>;
-};
-
-
 import { Carousel } from "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
